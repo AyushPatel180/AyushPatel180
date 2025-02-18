@@ -172,35 +172,38 @@ I'm a Machine Learning Engineer passionate about developing AI solutions that ma
 ## 🏆 Featured Projects
 
 <div class="project-grid">
-  <table>
+  <table width="100%" cellspacing="10">
     <tr>
-      <td width="50%">
-        <h3 align="center">Enterprise LLM Platform</h3>
+      <td width="50%" valign="top">
+        <h3 align="center">🎥 YouTube Video Summarizer</h3>
         <div align="center">
-          <a href="your-repo-link">
-            <img src="https://raw.githubusercontent.com/AyushPatel180/AyushPatel180/main/assets/llm-platform.png" alt="LLM Platform"/>
+          <a href="https://github.com/AyushPatel180/YouTube-Video-Summarizer" target="_blank">
+            <img src="https://cdn.prod.website-files.com/6462655e6f1811aabe80d8bd/663cb5b1f782414f80b98655_5%20best%20YouTube%20video%20summarizer%20AI%20tools-1.png"
+                 alt="YouTube Summarizer" width="80%" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);"/>
           </a>
-          <br>
-          <span><strong>🛠️ PyTorch, FastAPI, AWS, MLflow</strong></span>
-          <br>
-          <p>Production-grade LLM platform featuring custom fine-tuning pipelines and advanced prompt engineering</p>
+          <p><strong>🛠️ OpenAI | LangChain | Streamlit | FastAPI</strong></p>
+          <p style="text-align: justify; padding: 0 15px;">
+            AI-powered tool that extracts key insights from YouTube videos using advanced NLP techniques.
+          </p>
         </div>
       </td>
-      <td width="50%">
-        <h3 align="center">AI Image Generation Engine</h3>
+      <td width="50%" valign="top">
+        <h3 align="center">📊 Chatbot for CSV</h3>
         <div align="center">
-          <a href="your-repo-link">
-            <img src="https://raw.githubusercontent.com/AyushPatel180/AyushPatel180/main/assets/gen-ai.png" alt="GenAI Platform"/>
+          <a href="https://github.com/AyushPatel180/chatbot-for-csv" target="_blank">
+            <img src="https://raw.githubusercontent.com/AyushPatel180/AyushPatel180/main/assets/chatbot-csv.png" 
+                 alt="Chatbot for CSV" width="80%" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);"/>
           </a>
-          <br>
-          <span><strong>🛠️ Diffusers, Azure, MLflow, FastAPI</strong></span>
-          <br>
-          <p>Scalable image generation system with custom model training and optimization</p>
+          <p><strong>🛠️ Pandas | OpenAI | Streamlit | FastAPI</strong></p>
+          <p style="text-align: justify; padding: 0 15px;">
+            An interactive AI chatbot that enables users to query CSV data using natural language.
+          </p>
         </div>
       </td>
     </tr>
   </table>
 </div>
+
 
 ## 📊 GitHub Analytics
 
