@@ -183,20 +183,20 @@ I'm a Machine Learning Engineer passionate about developing AI solutions that ma
           </a>
           <p><strong>🛠️ OpenAI | LangChain | Streamlit | FastAPI</strong></p>
           <p style="text-align: justify; padding: 0 15px;">
-            AI-powered tool that extracts key insights from YouTube videos using advanced NLP techniques.
+            The cutting-edge tool that uses Whisper and advanced NLP to instantly transcribe, summarize, and extract key insights from YouTube videos, saving you hours while delivering the essential content.
           </p>
         </div>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">📊 Chatbot for CSV</h3>
+        <h3 align="center">📊 Smart Data Analysis Assistant</h3>
         <div align="center">
           <a href="https://github.com/AyushPatel180/chatbot-for-csv" target="_blank">
-            <img src="https://raw.githubusercontent.com/AyushPatel180/AyushPatel180/main/assets/chatbot-csv.png" 
+            <img src="https://github.com/AyushPatel180/chatbot-for-csv/blob/c349fc7bbe639daa9df68a37a424f48b46332edc/csv-chatbot.jpg" 
                  alt="Chatbot for CSV" width="80%" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);"/>
           </a>
           <p><strong>🛠️ Pandas | OpenAI | Streamlit | FastAPI</strong></p>
           <p style="text-align: justify; padding: 0 15px;">
-            An interactive AI chatbot that enables users to query CSV data using natural language.
+            An innovative AI chatbot that converts natural language queries into real-time insights and visualizations from CSV data, revolutionizing data interaction and analysis and reducing Data Exploration time.
           </p>
         </div>
       </td>
