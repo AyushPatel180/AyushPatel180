@@ -12,7 +12,7 @@
 
 <div align="center">
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2C69A9&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;AI+Solutions+Architect;MLOps+Specialist;Passionate+Tech+Innovator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2C69A9&center=true&vCenter=true&width=435&lines=Machine+Learning+Specialist;AI+Solutions+Architect;Building+Smart+Bots;Passionate+Tech+Innovator" alt="Typing SVG" />
   </p>
 </div>
 
@@ -23,7 +23,7 @@
 I'm a Machine Learning Engineer passionate about developing AI solutions that make a real-world impact. With expertise in LLM fine-tuning, AI agents, and MLOps, I specialize in bringing AI innovations from concept to production.
 
 ### 🚀 Professional Journey
-- 🔭 Currently working as Machine Learning Engineer
+- 🔭 Currently leading AI initiatives at [Company Name]
 - 🌱 Pioneering work in LLM fine-tuning and AI agent development
 - 💡 Developed production-grade chatbots and generative AI systems
 - 🎓 Background in Computer Science with focus on Machine Learning
@@ -43,20 +43,24 @@ I'm a Machine Learning Engineer passionate about developing AI solutions that ma
 <table>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/>
       <br>PyTorch
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>
       <br>TensorFlow
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/keras/keras-icon.svg" width="48" height="48" alt="Keras"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48" alt="Keras"/>
       <br>Keras
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" width="48" height="48" alt="Langchain"/>
+      <img src="https://avatars.githubusercontent.com/u/128987870" width="48" height="48" alt="Langchain"/>
       <br>Langchain
+    </td>
+    <td align="center">
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face"/>
+      <br>Hugging Face
     </td>
   </tr>
 </table>
@@ -65,37 +69,37 @@ I'm a Machine Learning Engineer passionate about developing AI solutions that ma
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/numpy.svg" width="48" height="48" alt="NumPy"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
       <br>NumPy
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/pandas.svg" width="48" height="48" alt="Pandas"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
       <br>Pandas
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/scikit_learn/scikit_learn-icon.svg" width="48" height="48" alt="Scikit-learn"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn"/>
       <br>Scikit-learn
     </td>
     <td align="center">
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn"/>
+      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="48" height="48" alt="Seaborn"/>
       <br>Seaborn
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/matplotlib.svg" width="48" height="48" alt="Matplotlib"/>
+      <img src="https://matplotlib.org/stable/_static/logo2.svg" width="48" height="48" alt="Matplotlib"/>
       <br>Matplotlib
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="48" height="48" alt="Tableau"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau"/>
       <br>Tableau
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/microsoftexcel.svg" width="48" height="48" alt="Excel"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" width="48" height="48" alt="Excel"/>
       <br>Excel
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/powerbi.svg" width="48" height="48" alt="Power BI"/>
+      <img src="https://img.icons8.com/color/48/000000/power-bi-2021.png" alt="Power BI Logo"/>
       <br>Power BI
     </td>
   </tr>
@@ -105,19 +109,19 @@ I'm a Machine Learning Engineer passionate about developing AI solutions that ma
 <table>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
       <br>PostgreSQL
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
       <br>MySQL
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS"/>
       <br>AWS
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
       <br>MongoDB
     </td>
   </tr>
@@ -127,37 +131,37 @@ I'm a Machine Learning Engineer passionate about developing AI solutions that ma
 <table>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
       <br>Python
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
       <br>Docker
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/>
       <br>FastAPI
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
       <br>Git
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
       <br>VS Code
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
       <br>GitHub
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/googlecolab.svg" width="48" height="48" alt="Google Colab"/>
+      <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48" height="48" alt="Google Colab"/>
       <br>Google Colab
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash"/>
       <br>Bash
     </td>
   </tr>
@@ -219,7 +223,7 @@ I'm a Machine Learning Engineer passionate about developing AI solutions that ma
   <a href="https://linkedin.com/in/ayush-patel18" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:work.ayushpatel18.com" style="text-decoration: none;">
+  <a href="mailto:your.email@example.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Drop_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/AyushPatel180" style="text-decoration: none;">
