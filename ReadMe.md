@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3595FF,100:2C69A9&height=250&section=header&text=AI%20Engineer%20|%20ML%20Specialist&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Crafting%20Intelligent%20Solutions%20for%20Tomorrow&descAlignY=55)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3595FF,100:2C69A9&height=250&section=header&text=AI%20%26%20ML%20Engineer&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Transforming%20Data%20into%20Intelligence&descAlignY=55)
 
 </div>
 
@@ -23,7 +23,7 @@
 I'm a Machine Learning Engineer passionate about developing AI solutions that make a real-world impact. With expertise in LLM fine-tuning, AI agents, and MLOps, I specialize in bringing AI innovations from concept to production.
 
 ### 🚀 Professional Journey
-- 🔭 Currently leading AI initiatives at [Company Name]
+- 🔭 Currently working as Machine Learning Engineer
 - 🌱 Pioneering work in LLM fine-tuning and AI agent development
 - 💡 Developed production-grade chatbots and generative AI systems
 - 🎓 Background in Computer Science with focus on Machine Learning
@@ -35,37 +35,131 @@ I'm a Machine Learning Engineer passionate about developing AI solutions that ma
 - Creating intelligent systems that enhance human capabilities
 - Contributing to the open-source AI community
 
-## 🛠️ Technology Arsenal
+## 🛠️ Technology Ecosystem
 
 <div align="center">
 
-### 🤖 Core AI/ML Stack
+### 🧠 AI & Deep Learning
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/><br>PyTorch</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/><br>TensorFlow</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/scikit_learn/scikit_learn-icon.svg" width="48" height="48" alt="Scikit-learn"/><br>Scikit-learn</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/><br>Python</td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/>
+      <br>PyTorch
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/>
+      <br>TensorFlow
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/keras/keras-icon.svg" width="48" height="48" alt="Keras"/>
+      <br>Keras
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" width="48" height="48" alt="Langchain"/>
+      <br>Langchain
+    </td>
   </tr>
 </table>
 
-### ☁️ Infrastructure & DevOps
+### 📊 Data Science & Analysis
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/><br>AWS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure"/><br>Azure</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br>Docker</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"/><br>Kubernetes</td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/numpy.svg" width="48" height="48" alt="NumPy"/>
+      <br>NumPy
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/pandas.svg" width="48" height="48" alt="Pandas"/>
+      <br>Pandas
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/scikit_learn/scikit_learn-icon.svg" width="48" height="48" alt="Scikit-learn"/>
+      <br>Scikit-learn
+    </td>
+    <td align="center">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn"/>
+      <br>Seaborn
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/matplotlib.svg" width="48" height="48" alt="Matplotlib"/>
+      <br>Matplotlib
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="48" height="48" alt="Tableau"/>
+      <br>Tableau
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/microsoftexcel.svg" width="48" height="48" alt="Excel"/>
+      <br>Excel
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/powerbi.svg" width="48" height="48" alt="Power BI"/>
+      <br>Power BI
+    </td>
+  </tr>
+</table>
+
+### 💾 Databases & Cloud
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
+      <br>PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
+      <br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/>
+      <br>AWS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
+      <br>MongoDB
+    </td>
   </tr>
 </table>
 
 ### 🔧 Development Tools
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br>Git</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode"/><br>VSCode</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/><br>Linux</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/><br>Bash</td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
+      <br>Python
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
+      <br>Docker
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/>
+      <br>FastAPI
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+      <br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
+      <br>VS Code
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
+      <br>GitHub
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/googlecolab.svg" width="48" height="48" alt="Google Colab"/>
+      <br>Google Colab
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/>
+      <br>Bash
+    </td>
   </tr>
 </table>
 
@@ -115,21 +209,37 @@ I'm a Machine Learning Engineer passionate about developing AI solutions that ma
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPatel180&layout=compact&theme=transparent&hide_border=true&title_color=3595FF&text_color=536878" />
 </div>
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect and Create Something Amazing!
 
 <div align="center">
-  <a href="https://linkedin.com/in/ayush-patel18">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <p style="font-size: 18px">I'm always excited to collaborate on innovative projects and discuss new ideas in AI and ML!</p>
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/ayush-patel18" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:work.ayushpatel18.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Drop_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="https://github.com/AyushPatel180" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Check_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
-<br>
+<div align="center" style="margin-top: 20px;">
+  <a href="https://your-portfolio.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Visit_My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://medium.com/@your-username" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Read_My_Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <p>💡 Open to exciting opportunities and collaborations!</p>
+  <p>🌟 Let's work together to bring innovative ideas to life!</p>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AyushPatel180&color=2C69A9&style=flat-square&label=Profile+Views" alt="Profile Views" />
