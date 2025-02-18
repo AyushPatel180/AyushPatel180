@@ -1,103 +1,118 @@
-# Hello World! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" />
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&width=460&lines=Machine+Learning+Engineer;AI+Specialist;MLOps+Engineer" alt="Typing SVG" />
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3595FF,100:2C69A9&height=250&section=header&text=AI%20Engineer%20|%20ML%20Specialist&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Crafting%20Intelligent%20Solutions%20for%20Tomorrow&descAlignY=55)
+
 </div>
 
-## 🧠 About Me
-
-> Transforming ideas into intelligent solutions through AI innovation
-
-- 🔭 Currently developing **Production-Grade AI Chatbots & Agents**
-- 🌱 Exploring **Advanced LLM architectures & Diffusion Models**
-- 💡 Specializing in **Model Fine-tuning & MLOps**
-- 🤖 Building **Scalable AI Systems**
-- 📚 Lifelong learner in the AI/ML space
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="24px">
+  Innovating with AI & ML
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="24px">
+</h1>
 
 <div align="center">
-  <h3>🎯 Areas of Expertise</h3>
   <p>
-    <img src="https://img.shields.io/badge/LLM_Finetuning-Expert-success?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/MLOps-Advanced-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/AI_Agents-Specialist-orange?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Generative_AI-Advanced-purple?style=for-the-badge" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2C69A9&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;AI+Solutions+Architect;MLOps+Specialist;Passionate+Tech+Innovator" alt="Typing SVG" />
   </p>
 </div>
 
-## 🛠️ Tech Stack
+## 🎯 About Me
 
-<details>
-<summary><b>🤖 AI & Machine Learning</b></summary>
-<br>
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  </a>
-  <br>
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=flat-square" />
-</p>
-</details>
+> Building the bridge between human intelligence and artificial intelligence
 
-<details>
-<summary><b>☁️ Cloud & Infrastructure</b></summary>
-<br>
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes" />
-  </a>
-</p>
-</details>
+I'm a Machine Learning Engineer passionate about developing AI solutions that make a real-world impact. With expertise in LLM fine-tuning, AI agents, and MLOps, I specialize in bringing AI innovations from concept to production.
 
-<details>
-<summary><b>🔧 Languages & Tools</b></summary>
-<br>
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,git,linux" />
-  </a>
-</p>
-</details>
+### 🚀 Professional Journey
+- 🔭 Currently leading AI initiatives at [Company Name]
+- 🌱 Pioneering work in LLM fine-tuning and AI agent development
+- 💡 Developed production-grade chatbots and generative AI systems
+- 🎓 Background in Computer Science with focus on Machine Learning
+- 🤝 Passionate about making AI accessible and practical
 
-## 🏆 Notable Projects
+### 💫 What Drives Me
+- Building scalable AI solutions that solve real-world problems
+- Exploring the frontiers of machine learning and deep learning
+- Creating intelligent systems that enhance human capabilities
+- Contributing to the open-source AI community
 
+## 🛠️ Technology Arsenal
+
+<div align="center">
+
+### 🤖 Core AI/ML Stack
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Enterprise LLM Platform</h3>
-      <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://raw.githubusercontent.com/AyushPatel180/AyushPatel180/main/projects/llm.png" width="400" alt="LLM Project"/>
-        </a>
-        <p><strong>Python, PyTorch, FastAPI, AWS</strong></p>
-        <p>Enterprise-grade LLM platform with custom fine-tuning pipeline and advanced prompting system</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">AI Image Generation System</h3>
-      <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://raw.githubusercontent.com/AyushPatel180/AyushPatel180/main/projects/genai.png" width="400" alt="GenAI Project"/>
-        </a>
-        <p><strong>Python, Diffusers, MLflow, Azure</strong></p>
-        <p>Production diffusion model system with custom training pipeline and optimization</p>
-      </div>
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/><br>PyTorch</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/><br>TensorFlow</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/scikit_learn/scikit_learn-icon.svg" width="48" height="48" alt="Scikit-learn"/><br>Scikit-learn</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/><br>Python</td>
   </tr>
 </table>
 
-## 📈 GitHub Statistics
+### ☁️ Infrastructure & DevOps
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/><br>AWS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure"/><br>Azure</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"/><br>Kubernetes</td>
+  </tr>
+</table>
+
+### 🔧 Development Tools
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode"/><br>VSCode</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/><br>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/><br>Bash</td>
+  </tr>
+</table>
+
+</div>
+
+## 🏆 Featured Projects
+
+<div class="project-grid">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Enterprise LLM Platform</h3>
+        <div align="center">
+          <a href="your-repo-link">
+            <img src="https://raw.githubusercontent.com/AyushPatel180/AyushPatel180/main/assets/llm-platform.png" alt="LLM Platform"/>
+          </a>
+          <br>
+          <span><strong>🛠️ PyTorch, FastAPI, AWS, MLflow</strong></span>
+          <br>
+          <p>Production-grade LLM platform featuring custom fine-tuning pipelines and advanced prompt engineering</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">AI Image Generation Engine</h3>
+        <div align="center">
+          <a href="your-repo-link">
+            <img src="https://raw.githubusercontent.com/AyushPatel180/AyushPatel180/main/assets/gen-ai.png" alt="GenAI Platform"/>
+          </a>
+          <br>
+          <span><strong>🛠️ Diffusers, Azure, MLflow, FastAPI</strong></span>
+          <br>
+          <p>Scalable image generation system with custom model training and optimization</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushPatel180&theme=radical&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushPatel180&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushPatel180&theme=transparent&hide_border=true&stroke=2C69A9&ring=3595FF&fire=2C69A9&currStreakNum=2C69A9&sideNums=2C69A9&currStreakLabel=3595FF&sideLabels=3595FF&dates=536878" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyushPatel180&theme=radical&no-frame=true&no-bg=true&row=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyushPatel180&show_icons=true&theme=transparent&hide_border=true&title_color=3595FF&icon_color=2C69A9&text_color=536878" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPatel180&layout=compact&theme=transparent&hide_border=true&title_color=3595FF&text_color=536878" />
 </div>
 
 ## 🤝 Let's Connect
@@ -114,16 +129,14 @@
   </a>
 </div>
 
+<br>
+
 <div align="center">
-  <h4>🎯 Profile Visits</h4>
-  <img src="https://profile-counter.glitch.me/AyushPatel180/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=AyushPatel180&color=2C69A9&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
----
-
 <div align="center">
-  <p>⭐️ From <a href="https://github.com/AyushPatel180">[Ayush Patel]</a></p>
   
-  <!-- This requires setting up GitHub Actions -->
-  <img src="https://raw.githubusercontent.com/AyushPatel180/AyushPatel180/output/github-contribution-grid-snake.svg" />
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3595FF,100:2C69A9&height=120&section=footer)
+  
 </div>
