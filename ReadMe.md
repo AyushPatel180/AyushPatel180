@@ -23,7 +23,7 @@
 I'm a Machine Learning Engineer passionate about developing AI solutions that make a real-world impact. With expertise in LLM fine-tuning, AI agents, and MLOps, I specialize in bringing AI innovations from concept to production.
 
 ### 🚀 Professional Journey
-- 🔭 Currently leading AI initiatives at [Company Name]
+- 🔭 Currently working as Machine Learning Engineer at fxis.ai
 - 🌱 Pioneering work in LLM fine-tuning and AI agent development
 - 💡 Developed production-grade chatbots and generative AI systems
 - 🎓 Background in Computer Science with focus on Machine Learning
