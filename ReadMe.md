@@ -1,27 +1,63 @@
-# 💫 About Me:
-I'm currently working as a Machine Learning Engineer, developing AI-powered chatbots and exploring AI Agents. My work involves finetuning large language models (LLMs), working on generative AI diffusion models, and implementing techniques like LoRA/QLoRA to enhance model performance.<br>I’m eager to partner on innovative machine learning, NLP, and generative AI projects that push the boundaries of interactive applications.<br>I welcome insights on advanced ML algorithms, scalable data architectures, and novel approaches in AI agent development.<br>I'm deepening my expertise in deep learning frameworks, AI model optimization, and cloud computing, with a focus on generative AI, automation using AI agents, and the latest model fine-tuning techniques.<br>Whether it's Python programming, machine learning best practices, or advanced AI model fine-tuning and diffusion models, I'm always excited to share and learn from the community.<br>Beyond coding, I'm a digital alchemist – I love transforming raw data into captivating visual art and quirky AI-generated creations that merge creativity with technology.
+# Hi there, I'm Ayush Patel 👋
 
+I'm a **Machine Learning Engineer** passionate about building AI-powered chatbots and innovative AI agents. I specialize in fine-tuning large language models, working with generative AI diffusion models, and leveraging techniques like LoRA/QLoRA to enhance performance.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-patel18/) 
-
-# 💻 Tech Stack:
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=plastic&logo=openapiinitiative&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AyushPatel180&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AyushPatel180&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPatel180&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AyushPatel180&theme=default&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AyushPatel180&limit=5&theme=default&combine_all_yearly_contributions=true)
+- 🔭 **Currently:** Developing AI-driven conversational interfaces & autonomous AI agents  
+- 🌱 **Learning:** Advanced deep learning frameworks, model optimization & cloud solutions  
+- 🤝 **Open to Collaborate:** Cutting-edge ML, NLP, and generative AI projects
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AyushPatel180&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-patel18/)
+
+---
+
+## 💻 Tech Stack
+
+**Languages:**  
+&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
+&nbsp;&nbsp;![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)  
+&nbsp;&nbsp;![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+
+**Frameworks & Libraries:**  
+&nbsp;&nbsp;![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)  
+&nbsp;&nbsp;![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)  
+&nbsp;&nbsp;![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)  
+&nbsp;&nbsp;![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+&nbsp;&nbsp;![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+&nbsp;&nbsp;![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+&nbsp;&nbsp;![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=Matplotlib&logoColor=black)  
+&nbsp;&nbsp;![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+**Web & API:**  
+&nbsp;&nbsp;![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)  
+&nbsp;&nbsp;![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
+&nbsp;&nbsp;![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+&nbsp;&nbsp;![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat&logo=streamlit&logoColor=white)
+
+**Cloud & DevOps:**  
+&nbsp;&nbsp;![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)  
+&nbsp;&nbsp;![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat&logo=microsoftazure&logoColor=white)  
+&nbsp;&nbsp;![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase)  
+&nbsp;&nbsp;![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+&nbsp;&nbsp;![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**Databases:**  
+&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+&nbsp;&nbsp;![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat&logo=sqlite&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushPatel180&show_icons=true&theme=default)](https://github.com/AyushPatel180)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPatel180&layout=compact&theme=default)](https://github.com/AyushPatel180)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AyushPatel180&theme=default)](https://github.com/AyushPatel180)
