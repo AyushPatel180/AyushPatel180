@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3595FF,100:2C69A9&height=250&section=header&text=AI%20%26%20ML%20Engineer&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Transforming%20Data%20into%20Intelligence&descAlignY=55)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3595FF,100:2C69A9&height=250&section=header&text=AI%20Engineer%20|%20ML%20Specialist&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Crafting%20Intelligent%20Solutions%20for%20Tomorrow&descAlignY=55)
 
 </div>
 
