@@ -26,7 +26,7 @@ I'm a Machine Learning Engineer passionate about developing AI solutions that ma
 - 🔭 Currently working as Machine Learning Engineer at fxis.ai
 - 🌱 Pioneering work in LLM fine-tuning and AI agent development
 - 💡 Developed production-grade chatbots and generative AI systems
-- 🎓 Background in Computer Science with focus on Machine Learning
+- 🎓 Math & stats background with a focus on data science, AI, and ML.
 - 🤝 Passionate about making AI accessible and practical
 
 ### 💫 What Drives Me
@@ -232,10 +232,10 @@ I'm a Machine Learning Engineer passionate about developing AI solutions that ma
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <a href="https://your-portfolio.com" style="text-decoration: none;">
+  <!-- <a href="https://your-portfolio.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Visit_My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://medium.com/@your-username" style="text-decoration: none;">
+  </a> -->
+  <a href="https://medium.com/@work.ayushpatel18" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Read_My_Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
